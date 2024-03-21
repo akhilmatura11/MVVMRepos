@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVMRepos</string>
+    <string name="title_main">Repository List for Octokit</string>
+    <string name="title_detail_repo">Repository Octokit</string>
+
+    <string name="user_avatar">User Avatar</string>
+    <string name="retry">Retry</string>
+
+    <string name="error_message">Something went wrong…</string>
+    <string name="progress_bar_text">Fetching repository information…</string>
+</resources>
